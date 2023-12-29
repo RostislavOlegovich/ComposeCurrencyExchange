@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Currency Exchanger</string>
+    <string name="main_screen_title">Currency converter</string>
+    <string name="my_balances">My balances</string>
+    <string name="currency_exchange">Currency exchange</string>
+    <string name="submit">Submit</string>
+    <string name="sell">Sell</string>
+    <string name="receive">Receive</string>
+    <string name="done">Done</string>
+    <string name="currency_converted">Currency converted</string>
+    <string name="conversion_result">You have converted %s to %s. Commission fee: %s.</string>
+    <string name="free_conversions">Free conversions: %d</string>
+</resources>
